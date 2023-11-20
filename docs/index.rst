@@ -10,7 +10,9 @@ Welcome to Hypot SWD3 Demo's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   dependencies
+   usage
+   functions
 
 Indices and tables
 ==================
